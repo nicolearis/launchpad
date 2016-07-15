@@ -1,0 +1,39 @@
+p {
+    color: #00B2A7;
+    font-family: arial;
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+    
+}
+
+div {
+    color: blue;
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+    font-style: italic;
+    
+    
+}
+body {
+    background-image: url("http://www.expertoanimal.com/es/images/9/7/5/img_nombres_para_perros_originales_y_bonitos_5579_paso_1_600.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    
+}
+.class_test {
+    color: yellow;
+    font-size: 30px;
+}
+#id_test {
+    color:yellow;
+    font-size: 30px;
+}
+
+.hover_test:hover{
+    font-size: 50px;
+    text-decoration: line-through;
+}
+a:visited {
+    background: black;
+    color: red;
+}
